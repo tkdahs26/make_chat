@@ -32,13 +32,13 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/3e4f1207-3f82-4c5d-af23-031dac721597" width="20%" height="20%"/> 화면11
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/8ccc3d17-c43a-4e73-97d9-9ff049058315 " width="20%" height="20%"/> 화면15
-
-
-
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/6f8a6866-5e4d-42dc-89d8-eb0832d88a39" width="20%" height="20%"/>화면17
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/cc899875-764d-4dc1-83f9-2e9b3492a564" width="20%" height="20%"/> 화면18
+
+
+
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/8ccc3d17-c43a-4e73-97d9-9ff049058315 " width="20%" height="20%"/> 화면15
 
 
 
