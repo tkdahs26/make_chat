@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="._2_2homepage_make">
+
+    <EditText
+        android:id="@+id/room_othername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="상대방 아이디를 입력하세요"
+        android:inputType="textPersonName"
+        android:translationX="50dp"
+        android:translationY="150dp"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <EditText
+        android:id="@+id/room_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="방 이름을 입력하세요"
+        android:inputType="textPersonName"
+        android:translationX="50dp"
+        android:translationY="50dp"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="68dp" />
+
+    <EditText
+        android:id="@+id/room_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="비밀번호을 입력하세요"
+        android:inputType="textPersonName"
+        android:translationX="50dp"
+        android:translationY="100dp"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="132dp" />
+
+    <Button
+        android:id="@+id/roommake_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="만들기"
+        android:translationX="100dp"
+        android:translationY="200dp"
+        tools:layout_editor_absoluteX="260dp"
+        tools:layout_editor_absoluteY="64dp" />
+</RelativeLayout>
