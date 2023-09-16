@@ -22,6 +22,7 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/3a432541-e268-40ca-af34-8212b52748ee " width="20%" height="20%"/> 화면4
 
 
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/27218db0-bbbf-4a46-8143-47a77f2ee596 " width="20%" height="20%"/> 화면16
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/e76cb23f-25eb-42e4-b4d6-270e9df51545 " width="20%" height="20%"/> 화면13
 
@@ -32,7 +33,6 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/8ccc3d17-c43a-4e73-97d9-9ff049058315 " width="20%" height="20%"/> 화면15
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/27218db0-bbbf-4a46-8143-47a77f2ee596 " width="20%" height="20%"/> 화면16
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/6f8a6866-5e4d-42dc-89d8-eb0832d88a39" width="20%" height="20%"/>화면17
 
