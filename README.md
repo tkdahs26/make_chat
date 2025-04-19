@@ -26,7 +26,7 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/3a432541-e268-40ca-af34-8212b52748ee " width="20%" height="20%"/> 회원가입성공
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/27218db0-bbbf-4a46-8143-47a77f2ee596 " width="20%" height="20%"/> 화면16// joinname안뜸
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/27218db0-bbbf-4a46-8143-47a77f2ee596 " width="20%" height="20%"/> 회원가입한 정보가 DB에 저장됨 joinname안뜸
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/e76cb23f-25eb-42e4-b4d6-270e9df51545 " width="20%" height="20%"/>  로그인 성공
 
