@@ -67,7 +67,7 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/294f3eb1-ba9c-4760-87e9-24afc51c8b49 " width="20%" height="20%"/>  채팅방 입장하면 나오는 창 위에 나와 상대방이 구분되서 
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/1f1c1280-36be-4894-9570-fa268edc6d38" width="20%" height="20%"/> 반쪽은 내가 쓴 채팅이 보이고 나머지 반쪽은 상대가 쓴 채팅이 보임
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/1f1c1280-36be-4894-9570-fa268edc6d38" width="20%" height="20%"/> 반쪽은 내가 쓴 채팅이 보이고 나머지 반쪽은 상대가 쓴 채팅이 보임 xxx지우고 다시올리기
 
 
 
