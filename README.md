@@ -31,7 +31,7 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/e76cb23f-25eb-42e4-b4d6-270e9df51545 " width="20%" height="20%"/>  로그인 성공
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/f2971034-b242-4da1-b4b3-0988b2227351" width="20%" height="20%"/>  로그인 실패
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/f2971034-b242-4da1-b4b3-0988b2227351" width="20%" height="20%"/>  로그인 정보가 틀렸을시 실패창
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/3e4f1207-3f82-4c5d-af23-031dac721597" width="20%" height="20%"/> 로그인 성공했을시 채팅방 목록을 볼수 있음
 
