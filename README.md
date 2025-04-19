@@ -85,7 +85,7 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/5399c09a-444a-4e4c-9f5b-e451f707b207 " width="20%" height="20%"/> 화면20
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/08ade817-807a-494e-8cde-f890eb23167a " width="20%" height="20%"/> 화면21
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/08ade817-807a-494e-8cde-f890eb23167a " width="20%" height="20%"/> 화면21  새로고침 버튼을 눌러야 DB와 통신되서 채팅이 업데이트됨
 
 
 
