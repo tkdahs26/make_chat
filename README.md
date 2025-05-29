@@ -90,4 +90,4 @@
 
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/b9f42c97-58c8-40d2-955e-a0d723493f89 " width="20%" height="20%"/> 화면22 채팅내용 자동으로 DB에 저장됨
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/b9f42c97-58c8-40d2-955e-a0d723493f89 " width="20%" height="20%"/>  채팅내용 자동으로 DB에 저장됨
