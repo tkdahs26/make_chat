@@ -62,11 +62,11 @@
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/294f3eb1-ba9c-4760-87e9-24afc51c8b49 " width="20%" height="200%"/>  채팅방 입장하면 나오는 창 위에 나와 상대방이 구분되서 
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/1f1c1280-36be-4894-9570-fa268edc6d38" width="20%" height="200%"/> 반쪽은 내가 쓴 채팅이 보이고 나머지 반쪽은 상대가 쓴 채팅이 보임 xxx지우고 다시올리기
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/1f1c1280-36be-4894-9570-fa268edc6d38" width="20%" height="200%"/> 반쪽은 내가 쓴 채팅이 보이고 나머지 반쪽은 상대가 쓴 채팅이 보임
 
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/5c42bdf9-daa2-4446-8bcf-dbf9fb28f9c8" width="20%" height="200%"/> 화면7
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/5c42bdf9-daa2-4446-8bcf-dbf9fb28f9c8" width="20%" height="200%"/> 
 
 
 
@@ -81,7 +81,7 @@
 
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/08ade817-807a-494e-8cde-f890eb23167a " width="20%" height="200%"/> 상대방 입장에서 로그인하고 봤을때 기준이 내가 되야하기 때문에 전에 적은 사람은 상대방이 되고 전에 적은 채팅위치와 상대방채팅 위치가 서로바뀜 
- 제 3자가 실시간 채팅까지는 만들지 못했고 새로고침 버튼을 눌러야 DB와 통신되서 채팅이 업데이트됨 
+ 새로고침 버튼을 눌러야 DB와 통신되서 채팅이 업데이트됨 
 
 
 
