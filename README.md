@@ -34,7 +34,7 @@ DB서버는 닷홈사이트
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/3e4f1207-3f82-4c5d-af23-031dac721597" width="20%" height="200%"/> 로그인 성공했을시 채팅방 목록을 볼수 있음
 
 
-<img src="https://github.com/tkdahs26/make_chat/assets/48806275/6f8a6866-5e4d-42dc-89d8-eb0832d88a39" width="20%" height="200%"/>채팅을 하고싶으면 채팅방을 만들어야함
+<img src="https://github.com/tkdahs26/make_chat/assets/48806275/6f8a6866-5e4d-42dc-89d8-eb0832d88a39" width="20%" height="200%"/>채팅을 하고싶으면 채팅방과 채팅방비밀번호를 만들어야함
 
 <img src="https://github.com/tkdahs26/make_chat/assets/48806275/cc899875-764d-4dc1-83f9-2e9b3492a564" width="20%" height="200%"/> 채팅방을 만들때 채팅방이름과 비밀번호 상대방아이디를 적으면 만들어짐
 
