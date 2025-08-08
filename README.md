@@ -2,7 +2,7 @@
 
 다섯번째 앱 만들기 채팅앱
 
-사용기술 android java php mysql
+사용기술 android java php mysql json
 
 DB서버는 닷홈사이트
 
