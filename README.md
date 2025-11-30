@@ -3,6 +3,52 @@
 다섯번째 앱 만들기 채팅앱
 
 사용기술 android java php mysql json
+Volley 라이브러리를 이용해 Android와 PHP/DB 간의 통신을 구현하고, 통신 성공/실패 시 AlertDialog로 사용자 피드백 제공
+
+회원 관리 시스템 구축:
+
+기능: 로그인/회원가입, 아이디/비밀번호 찾기, 아이디 중복 확인 기능 구현.
+
+기술: Volley 라이브러리를 이용해 Android와 PHP/DB 간의 통신을 구현하고, 통신 성공/실패 시 AlertDialog로 사용자 피드백 제공.
+
+
+
+
+
+
+채팅방 및 목록 기능:
+
+기능: 채팅방 목록 조회 및 표시, 새로운 채팅방 생성, 비밀번호를 통한 채팅방 접근 제어.
+
+기술: 서버로부터 채팅방 정보를 JSON(org.json.simple) 형태로 받아와 파싱하고(_2_0homepage.java), **ArrayList<TextView>**를 사용하여 동적으로 목록을 표시하는 로직 구현.
+
+
+  채팅 구현:
+
+기능: 채팅방 내에서 메시지 송수신 및 화면 표시.
+
+기술: 사용자 ID(_1_0first_page.json1)와 상대방 ID(_2_1room_password_check.passwordcheck_otherid)를 구분하여 메시지를 전송하고, 채팅 내용을 주기적으로 서버에서 불러와 스크롤 가능한 리스트에 표시.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 DB서버는 닷홈사이트
 
