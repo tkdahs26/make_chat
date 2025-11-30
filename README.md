@@ -3,7 +3,9 @@
 다섯번째 앱 만들기 채팅앱
 
 사용기술 android java php mysql json
-Volley 라이브러리를 이용해 Android와 PHP/DB 간의 통신을 구현하고, 통신 성공/실패 시 AlertDialog로 사용자 피드백 제공
+
+
+Java와 Android Volley 라이브러리를 사용하여 개발한 실시간 채팅 애플리케이션으로, 회원 관리(가입/로그인), 채팅방 목록 조회, 채팅방 생성 및 실시간 메시지 송수신 기능을 구현했습니다.
 
 회원 관리 시스템 구축:
 
